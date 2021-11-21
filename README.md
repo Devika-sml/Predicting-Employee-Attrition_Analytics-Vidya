@@ -1,6 +1,6 @@
 # Predicting-Employee-Attrition
 
-[#### Public Leaderboard : 4]
+[<#### Public Leaderboard : 4>]
 [#### Private Leaderboard: 3]
 
 ## Problem Statement: 
