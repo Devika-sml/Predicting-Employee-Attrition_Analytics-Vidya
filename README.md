@@ -1,7 +1,7 @@
 # Predicting-Employee-Attrition
 
-[<#### Public Leaderboard : 4>]
-[#### Private Leaderboard: 3]
+##### Public Leaderboard : 4
+##### Private Leaderboard: 3
 
 ## Problem Statement: 
 Given the monthly information for a segment of employees for 2016 and 2017 and need to predict whether a current employee will be leaving the organization in the upcoming two quarters (01 Jan 2018 - 01 July 2018) or not.
