@@ -13,5 +13,5 @@ Using the data after Jul 2017 for Test, predicted the target values and the valu
 ## Data Pre-processing/Feature Engineering: 
 City, Gender, Report month have been encoded, For Total Business value, created a variable which tells how many times the employee provided value for company, and from Salary created variable saying whether there was a salary increase at some point of time. Education level has also been mapped to 1,2,3 and created Exp- how long the employee has been working with the firm.
 ## Model: 
-Started from Decision tree, and a strong linear relation ship between variables has been detected. Tried Random Forest and logistic regression later with hyperparameter tuning.
+Started with Decision tree, and a strong linear relation ship between variables has been detected. Tried Random Forest and logistic regression later with hyperparameter tuning.
 The best fit comes out to be Logistic Regression with an F1 score of 0.74.
